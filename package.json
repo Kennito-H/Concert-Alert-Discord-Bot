@@ -1,0 +1,31 @@
+{
+  "name": "concert-alert-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennito-H/Concert-Alert-Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kennito-H/Concert-Alert-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Kennito-H/Concert-Alert-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.3.0",
+    "eslint": "^10.0.2",
+    "typescript": "^5.9.3"
+  }
+}
